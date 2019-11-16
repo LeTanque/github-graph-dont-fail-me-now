@@ -19,4 +19,20 @@
     align-items: flex-end;
     padding-right: 8%;
     font-size: 5.0rem;
-  }
+}
+
+.button-container {
+    display: flex;
+}
+
+.number-container {
+    display: flex;
+}
+
+.each-number {
+    background-color: white;
+    color: black;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
